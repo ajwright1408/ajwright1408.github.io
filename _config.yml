@@ -2,4 +2,4 @@ title: Aj's homepage
 description: Bookmark this to keep an eye on my project updates!
 remote_theme: academicpages / academicpages.github.io
 plugins:
-  -jekyll-remote-theme
+  - jekyll-remote-theme
