@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-midnight
 title: Aj's homepage
 description: Bookmark this to keep an eye on my project updates!
 plugins:
