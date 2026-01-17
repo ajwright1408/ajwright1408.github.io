@@ -2,7 +2,7 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 <a href="/Files/CV-4.pdf" class="btn btn--info">Download PDF</a>
